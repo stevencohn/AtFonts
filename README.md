@@ -1,5 +1,7 @@
 This was a quick play to find ways to carve up font files and embed them in HTML. It's probably not the best way or correct way but...
 
+To get started, download the fonts.html file and open it up in your favorite browser (well, Chrome because I haven't tested it in anything else!)
+
 <h2>Embedding Atlassian Icon Fonts in CSS</h2>
 
 <p>Download <a href="https://bitbucket.org/atlassian/aui/src/master/packages/iconfont/dist/fonts/">adgs and atlassian</a> icon fonts.
